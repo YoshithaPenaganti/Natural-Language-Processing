@@ -19,7 +19,7 @@ This file contains the sentence vectors of all the Wikicorpus trained by Word2ve
 
 5.tfidf.py . 07/09/2017
 
-This file has the Tfidf model applied on 14 million headlines as documents and gives the top 3 important words as the output. Tfidf model calculates the term frequency and inverse document frequency which gives a final score reflecting the importance of the word to that respective document.
+This file has the Tfidf model applied on 1 million headlines as documents and gives the top 3 important words as the output. Tfidf model calculates the term frequency and inverse document frequency which gives a final score reflecting the importance of the word to that respective document.
 
 
 
